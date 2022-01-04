@@ -17,3 +17,18 @@ This includes:
     - Drag Events & Reflecting the Current State in the UI
     - Adding a Droppable Area
     - Finishing Drag & Drop
+    
+    - Writing Module Code - Your Options
+    - Working with Namespaces
+    - Organizing Files & Folders
+    - A Problem with Namespace Imports
+    - Using ES Modules
+    - Understanding various Import & Export Syntaxes
+    - How Does Code in Modules Execute?
+    
+    - What is Webpack & Why do we need it?
+    - Installing Webpack & Important Dependencies
+    - Adding Entry & Output Configuration
+    - Adding TypeScript Support with the ts-loader Package
+    - Finishing the Setup & Adding webpack-dev-server
+    - Adding a Production Workflow
